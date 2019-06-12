@@ -1,9 +1,9 @@
-.card-container {
-  padding-top: 10%;
-}
+/* .card-container {
+  text-align: center;
+} */
 
 .example-card {
-    max-width: 500px;
+    max-width: 200px;
     margin: 0 auto;
   }
   

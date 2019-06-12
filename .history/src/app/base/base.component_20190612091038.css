@@ -1,10 +1,10 @@
 .card-container {
-  padding-top: 10%;
+  text-align: center;
 }
 
 .example-card {
-    max-width: 500px;
-    margin: 0 auto;
+    max-width: 200px;
+    position: relative;
   }
   
   .example-header-image {

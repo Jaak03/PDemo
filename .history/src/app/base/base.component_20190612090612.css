@@ -1,10 +1,5 @@
-.card-container {
-  padding-top: 10%;
-}
-
 .example-card {
-    max-width: 500px;
-    margin: 0 auto;
+    max-width: 400px;
   }
   
   .example-header-image {
